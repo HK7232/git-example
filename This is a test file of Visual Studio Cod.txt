@@ -1,3 +1,6 @@
 This is a test file of Visual Studio Code
 First line
 Second line
+
+Third line added
+Fourth line added
